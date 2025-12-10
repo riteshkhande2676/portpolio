@@ -77,8 +77,8 @@ This portfolio can be deployed to:
 
 - **Email**: riteshkhande2676@gmail.com
 - **Phone**: +91-8889044642
-- **LinkedIn**: [linkedin.com/in/riteshkhande](https://linkedin.com/in/riteshkhande)
-- **GitHub**: [github.com/riteshkhande](https://github.com/riteshkhande)
+- **LinkedIn**: [linkedin.com/in/ritesh-khande-40b30](https://www.linkedin.com/in/ritesh-khande-40b30/)
+- **GitHub**: [github.com/riteshkhande2676](https://github.com/riteshkhande2676)
 
 ## 📄 License
 
